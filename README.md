@@ -1,2 +1,0 @@
-# JRPaintingservices.github.io
-Web
