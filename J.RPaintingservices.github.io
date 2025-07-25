@@ -125,37 +125,34 @@
 
     <div class="project">
       <h3>"Rust and Radiance"</h3>
-      <img src="https://via.placeholder.com/800x400?text=Painting+2" alt="Rust and Radiance">
+      <img src="https://raw.githubusercontent.com/decodeworld88/JRPaintingservices.github.io/74a769b8f5c0771c97014d4f3e713089f1b62cdd/IMG_0049.jpeg" alt="Rust and Radiance">
       <p>An abstract exploration of decay and beauty, created with layers of rust dye, coffee, and acrylic.</p>
     </div>
 
-    <div class="project">
-      <h3>"Farmhouse Still"</h3>
-      <img src="https://via.placeholder.com/800x400?text=Painting+3" alt="Farmhouse Still">
-      <p>Oil on canvas — a still life capturing antique tools and vintage linens in warm, nostalgic tones.</p>
-    </div>
+
+   
 
   </section>
 
   <section id="services" class="services">
     <h2>Services</h2>
     <ul>
-      <li>Custom rustic-style paintings for homes or businesses</li>
-      <li>Commissioned pieces from photos or descriptions</li>
-      <li>Art workshops and one-on-one painting sessions</li>
-      <li>Gallery showings and installation collaborations</li>
+
+
+
+
     </ul>
   </section>
 
   <section id="contact" class="contact-info">
     <h2>Contact</h2>
-    <p>Email: <a href="mailto:youremail@example.com">youremail@example.com</a></p>
-    <p>Instagram: <a href="https://instagram.com/yourprofile" target="_blank">@yourprofile</a></p>
-    <p>Location: Based in [Your City / Region]</p>
+    <p>Email: <a href="johnnymartin01@aol.com">youremail@example.com</a></p>
+    <p>Facebook: <a href="https://www.facebook.com/share/1EyWVU3CyD/?mibextid=wwXIfr"
+    <p>Location: Based in [Ohio]</p>
   </section>
 
   <footer>
-    <p>&copy; 2025 Your Name. All rights reserved.</p>
+    <p>&copy; 2025 J.R Painting Services. All rights reserved.</p>
   </footer>
 
 </body>
